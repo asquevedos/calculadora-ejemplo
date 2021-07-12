@@ -8,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class CalculadoraComponent implements OnInit {
 
   ingreso:String="";
+
+  //Este es un constructor del proyecto
   constructor() { }
 
   ngOnInit(): void {
